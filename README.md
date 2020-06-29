@@ -1,1 +1,1 @@
-# Spring-MVC-with-HIbernate
+# Spring-MVC-with-Hibernate
